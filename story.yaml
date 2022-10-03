@@ -1,11 +1,10 @@
-logline: TODO
-readers: TODO
-concept: TODO
+logline: 自閉的な特性がマジョリティの世界で、共感性の高い主人公が、〈困難を克服し〉ようとする。
+concept: 自閉的であることがノーマルだったら？
 theme: TODO
 characters:
   - main:
       outside: TODO
-      inside: TODO
+      inside: 共感性が高いため、タスク志向の社会生活が困難。技術的に解決している。
       history: TODO
       ordeal: TODO
   - sub:
@@ -13,8 +12,8 @@ characters:
       inside: TODO
       history: TODO
 settings:
-  - いつどこで: TODO
-  - だれがなにをする: TODO
+  - いつどこで: 自閉的な特性がマジョリティの世界
+  - だれがなにをする: TODO 〈〇〇で〉共感性の高い主人公が、〈困難を克服し〉ようとする。
   - ITEM:
       description: blah blah blah
       depends_on: ANOTHER ITEM
